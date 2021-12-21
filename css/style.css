@@ -1,0 +1,78 @@
+body {
+    background-color:beige;
+}
+
+/* PEQUEÑO CONTENIDO */
+
+.container-prin{
+    background-color:beige;
+    margin: 20px;
+}
+
+
+h2.titulo-cuerpo{
+    margin-bottom: 25px;
+}
+
+.media-object-img {
+    width: 50%;
+    height: 50%;
+}
+
+li{
+    list-style: none;
+}
+
+/* CARD */
+
+.card-group {
+    margin: 20px;
+}
+
+.card {
+    margin: 15px;
+}
+
+/* SECCIÓN FOTOS */
+
+#galeria img {
+    width: 100%;
+    height: 300px;
+}
+
+#galeria img:hover{
+    border: 5px solid rgba(255, 255, 255, 0);
+}
+
+#galeria .col-lg-4 {
+    margin: 0;
+    padding: 15px;
+}
+
+
+/* SECCCIÓN FORMULARIO */
+
+section.formulario {
+    width: 80%;
+    margin: auto;
+}
+
+h1.h1-form{
+    margin: 35px;
+}
+
+.form-datos {
+    padding: 5vw 10vw;
+    height: 100%;
+}
+
+
+/* FOOTER */
+
+footer{
+    background-color: rgb(245, 245, 235);
+    height: 13vh;
+    margin: auto;
+    align-items: center;
+}
+
